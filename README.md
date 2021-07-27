@@ -1,6 +1,6 @@
 # WeShed
 
-A webapp created by: Eliot Shea, Noal Gesler, Rogelio Lopez, and Steven Knudson for CEN 4020.
+A webapp created by: Eliot Shea, Noal Gesler, Rogelio Lopez, and Steven Knudson
 
 WeShed is a social media platform to connect musicions and to help them learn and practice. It provides backing tracks and sheet music, to practice along with. It tracks your playing sessions and uses this information to help you keep your repertoire fresh by showing you what songs you have not played in a while. Live media feed updates with private messaging system
 
